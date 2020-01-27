@@ -1,1 +1,22 @@
+Saugat Dawadi
+Assignment 1- CS 383
+
+All three parts of the homework are completed and submitted. The pdf named "sd984_Assignment1_CS383" contains the part 1 theory questions,
+and the scatterplot from Part 2.
+
+All the code is on Matlab, and the scatterplot is also from Matlab. LateX is used for the Part 1
+
+Running the code
+Part 2:
+The name of the file is "yaleface_analysis.m". Please keep the pictures from the Yalefaces in a folder called "yalefaces" in the directory where 
+the "yaleface_analysis.m". 
+After you run the code, the scatterplot should come up.  
+
+Part 3:
+The name of the file is "eigenfaces.m". Please keep the pictures from the Yalefaces in a folder called "yalefaces" in the directory where 
+the "yaleface_analysis.m". 
+After you run the code, the video comes up, and you'll be able to see it. The video file is called "sd984_video.avi".
+
+PS: if there is a directory error then please email me at sd984@drexel.edu
+Everything works.
 
